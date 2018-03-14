@@ -29,6 +29,6 @@ class SingleDeliveryTest extends TestCase
 
     public function test_one_run()
     {
-        
+
     }
 }
